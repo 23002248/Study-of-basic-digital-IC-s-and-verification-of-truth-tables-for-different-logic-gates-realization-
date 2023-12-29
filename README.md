@@ -1,5 +1,5 @@
-Name: Stephen raj.Y
-Resgister No: 212223230217
+##Name: Stephen raj.Y
+##Resgister No: 212223230217
 
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
